@@ -1,0 +1,24 @@
+    .c {
+        width: 24%;
+        height: 784px;
+        background-color: black;
+        color: white;
+        border: #ffffff 2px solid;
+        float:left;
+        margin: 55px;
+        text-align: justify;
+        padding: 5px;
+       }
+
+     .pic{
+        margin: 0px;
+        width: 100%;
+        height: 81%;
+     }  
+     .h{
+        color: rgb(9, 9, 74);
+        text-align: center;
+     }
+     .b{
+        background-color: rgb(194, 194, 194);
+     }
